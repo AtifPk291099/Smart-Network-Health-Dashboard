@@ -30,3 +30,4 @@ sqlite3 db/health.db < db/schema.sql
 
 sqlite3 db/health.db < db/seed.sql
 
+
